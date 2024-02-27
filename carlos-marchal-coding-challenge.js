@@ -1,5 +1,5 @@
 
-// Regex made to detect if a character, number o symbol repeats. it ignores whitespaces
+// Regex made to detect if a character, number o symbol repeats. 
 let regex = /(?=^[^]+$)(.)+.*\1.*/;
 
 
